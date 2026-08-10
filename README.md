@@ -1,5 +1,3 @@
-Yes. Now that we've added TCP networking, multithreading, thread safety, TTL, AOF persistence/replay, LRU eviction, Factory Pattern, DI, Lists and Hashes, I'd use these four bullets.
-
 Redis-Inspired In-Memory Database | C++17, TCP/IP, Multithreading, POSIX Sockets
 
 Engineered a Redis-inspired in-memory database in C++17, implementing SET, GET, DEL, EXISTS, SIZE, Lists, Hashes, and TTL expiration using modular OOP, Command/Factory patterns, and Dependency Injection.

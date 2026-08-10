@@ -10,3 +10,7 @@ redis
 
 # VS Code settings
 .vscode/
+
+data/*.aof
+data/*.txt
+
